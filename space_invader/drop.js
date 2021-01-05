@@ -26,6 +26,4 @@ function Drop(x,y) {
             return false;
         }
     }
-
-
 }
